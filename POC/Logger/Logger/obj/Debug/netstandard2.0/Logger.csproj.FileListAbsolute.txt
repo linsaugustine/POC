@@ -1,0 +1,16 @@
+D:\My Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.deps.json
+D:\My Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.dll
+D:\My Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.pdb
+D:\My Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.csproj.CoreCompileInputs.cache
+D:\My Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfoInputs.cache
+D:\My Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfo.cs
+D:\My Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.dll
+D:\My Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.pdb
+D:\Net Core Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.deps.json
+D:\Net Core Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.dll
+D:\Net Core Projects\Logger\Logger\bin\Debug\netstandard2.0\Logger.pdb
+D:\Net Core Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.csproj.CoreCompileInputs.cache
+D:\Net Core Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfoInputs.cache
+D:\Net Core Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfo.cs
+D:\Net Core Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.dll
+D:\Net Core Projects\Logger\Logger\obj\Debug\netstandard2.0\Logger.pdb

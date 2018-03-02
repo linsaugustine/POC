@@ -1,0 +1,24 @@
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.deps.json
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.json
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.dev.json
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.dll
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.pdb
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\Logger.dll
+D:\My Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\Logger.pdb
+D:\My Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.csproj.CoreCompileInputs.cache
+D:\My Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfoInputs.cache
+D:\My Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfo.cs
+D:\My Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.dll
+D:\My Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.pdb
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.deps.json
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.json
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.dev.json
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.dll
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.pdb
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\Logger.dll
+D:\Net Core Projects\Logger\LoggerApp\bin\Debug\netcoreapp2.0\Logger.pdb
+D:\Net Core Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.csproj.CoreCompileInputs.cache
+D:\Net Core Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfoInputs.cache
+D:\Net Core Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfo.cs
+D:\Net Core Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.dll
+D:\Net Core Projects\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.pdb
