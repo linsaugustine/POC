@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService", "ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.csproj", "{279F2186-477E-4B8D-AD11-8051828ADD19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BAL", "BAL", "{0E563CEE-0599-4FCD-AB86-02884F5A05E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{D4973B4C-A2DC-4F6B-8ADA-E3D99CB929B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataProvider", "DataProvider", "{EE467A03-2185-433A-AA91-00BC9542B888}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{0C5686CB-9DDF-4934-BC61-A75732D3E66B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{D1DCE5FC-E793-48C4-9C65-F2214094C416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.BAL", "ChartNav.WaveIntegrationService.BAL\ChartNav.WaveIntegrationService.BAL.csproj", "{DC5441AB-E9AB-4402-851C-BA7B3C0A4437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.BAL.Interfaces", "ChartNav.WaveIntegrationService.BAL.Interfaces\ChartNav.WaveIntegrationService.BAL.Interfaces.csproj", "{BF134AF7-6627-4C1A-902F-CFDC65CA04BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.DataProvider.EFCore", "ChartNav.WaveIntegrationService.Dataprovider.EFCore\ChartNav.WaveIntegrationService.DataProvider.EFCore.csproj", "{4FEA8454-90F6-4771-BC07-151C15B92E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.DataProvider.IRepository", "ChartNav.WaveIntegrationService.DataProvider.IRepository\ChartNav.WaveIntegrationService.DataProvider.IRepository.csproj", "{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.DataProvider.Repository", "ChartNav.WaveIntegrationService.DataProvider.Repository\ChartNav.WaveIntegrationService.DataProvider.Repository.csproj", "{7F23C573-1879-45E2-8A9E-52A018C265D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.Test.XUnit", "ChartNav.WaveIntegrationService.Test.XUnit\ChartNav.WaveIntegrationService.Test.XUnit.csproj", "{3CC148EF-421A-4923-83D4-DE0C583610C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartNav.WaveIntegrationService.Domain", "ChartNav.WaveIntegrationService.Domain\ChartNav.WaveIntegrationService.Domain.csproj", "{DA97AF25-DA38-43D0-A30A-83E2E605AD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279F2186-477E-4B8D-AD11-8051828ADD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279F2186-477E-4B8D-AD11-8051828ADD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279F2186-477E-4B8D-AD11-8051828ADD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279F2186-477E-4B8D-AD11-8051828ADD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5441AB-E9AB-4402-851C-BA7B3C0A4437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5441AB-E9AB-4402-851C-BA7B3C0A4437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5441AB-E9AB-4402-851C-BA7B3C0A4437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5441AB-E9AB-4402-851C-BA7B3C0A4437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF134AF7-6627-4C1A-902F-CFDC65CA04BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF134AF7-6627-4C1A-902F-CFDC65CA04BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF134AF7-6627-4C1A-902F-CFDC65CA04BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF134AF7-6627-4C1A-902F-CFDC65CA04BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEA8454-90F6-4771-BC07-151C15B92E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEA8454-90F6-4771-BC07-151C15B92E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEA8454-90F6-4771-BC07-151C15B92E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEA8454-90F6-4771-BC07-151C15B92E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F23C573-1879-45E2-8A9E-52A018C265D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F23C573-1879-45E2-8A9E-52A018C265D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F23C573-1879-45E2-8A9E-52A018C265D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F23C573-1879-45E2-8A9E-52A018C265D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC148EF-421A-4923-83D4-DE0C583610C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC148EF-421A-4923-83D4-DE0C583610C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC148EF-421A-4923-83D4-DE0C583610C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC148EF-421A-4923-83D4-DE0C583610C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA97AF25-DA38-43D0-A30A-83E2E605AD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA97AF25-DA38-43D0-A30A-83E2E605AD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA97AF25-DA38-43D0-A30A-83E2E605AD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA97AF25-DA38-43D0-A30A-83E2E605AD57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC5441AB-E9AB-4402-851C-BA7B3C0A4437} = {0E563CEE-0599-4FCD-AB86-02884F5A05E4}
+		{BF134AF7-6627-4C1A-902F-CFDC65CA04BC} = {0E563CEE-0599-4FCD-AB86-02884F5A05E4}
+		{4FEA8454-90F6-4771-BC07-151C15B92E0C} = {EE467A03-2185-433A-AA91-00BC9542B888}
+		{4EA59ED4-034E-4A6E-8FA9-2A0A23B8B2E7} = {EE467A03-2185-433A-AA91-00BC9542B888}
+		{7F23C573-1879-45E2-8A9E-52A018C265D8} = {EE467A03-2185-433A-AA91-00BC9542B888}
+		{3CC148EF-421A-4923-83D4-DE0C583610C7} = {0C5686CB-9DDF-4934-BC61-A75732D3E66B}
+		{DA97AF25-DA38-43D0-A30A-83E2E605AD57} = {D1DCE5FC-E793-48C4-9C65-F2214094C416}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8273F312-89AC-49B5-AADB-F76E68F8B56C}
+	EndGlobalSection
+EndGlobal

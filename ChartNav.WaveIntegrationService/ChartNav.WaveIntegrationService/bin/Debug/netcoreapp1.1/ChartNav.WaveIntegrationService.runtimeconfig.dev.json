@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\linsona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\linsona\\.nuget\\packages"
+    ]
+  }
+}

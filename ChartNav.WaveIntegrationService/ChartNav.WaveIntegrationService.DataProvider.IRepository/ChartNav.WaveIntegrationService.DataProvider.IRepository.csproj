@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChartNav.WaveIntegrationService.Dataprovider.EFCore\ChartNav.WaveIntegrationService.DataProvider.EFCore.csproj" />
+    <ProjectReference Include="..\ChartNav.WaveIntegrationService.Domain\ChartNav.WaveIntegrationService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

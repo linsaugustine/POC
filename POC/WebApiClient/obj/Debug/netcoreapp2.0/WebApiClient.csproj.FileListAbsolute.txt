@@ -1,0 +1,10 @@
+D:\NetCore Projects\POC\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.deps.json
+D:\NetCore Projects\POC\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.runtimeconfig.json
+D:\NetCore Projects\POC\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.runtimeconfig.dev.json
+D:\NetCore Projects\POC\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.dll
+D:\NetCore Projects\POC\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.pdb
+D:\NetCore Projects\POC\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.AssemblyInfo.cs
+D:\NetCore Projects\POC\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.dll
+D:\NetCore Projects\POC\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.pdb

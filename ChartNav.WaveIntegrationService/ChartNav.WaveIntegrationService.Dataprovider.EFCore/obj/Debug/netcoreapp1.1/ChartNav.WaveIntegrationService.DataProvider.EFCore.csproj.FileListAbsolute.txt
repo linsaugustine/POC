@@ -1,0 +1,8 @@
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.deps.json
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.AssemblyInfoInputs.cache
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.AssemblyInfo.cs
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Dataprovider.EFCore\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.pdb

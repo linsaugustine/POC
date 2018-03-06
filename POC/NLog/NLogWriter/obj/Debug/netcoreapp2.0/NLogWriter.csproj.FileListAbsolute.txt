@@ -1,0 +1,20 @@
+D:\Practice\GIT\Logger\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLog.config
+D:\Practice\GIT\Logger\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.deps.json
+D:\Practice\GIT\Logger\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.dll
+D:\Practice\GIT\Logger\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.pdb
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.csproj.CoreCompileInputs.cache
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.AssemblyInfoInputs.cache
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.AssemblyInfo.cs
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.dll
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.pdb
+D:\Practice\GIT\Logger\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.csprojResolveAssemblyReference.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLog.config
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.deps.json
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.dll
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netcoreapp2.0\NLogWriter.pdb
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.csprojResolveAssemblyReference.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.AssemblyInfo.cs
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.dll
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netcoreapp2.0\NLogWriter.pdb

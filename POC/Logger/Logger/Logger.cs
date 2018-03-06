@@ -27,6 +27,11 @@ namespace Logger
             this.LogProcess("Exception", message, stackTrace);
         }
 
+        public void SaveImage (byte[] imgage, string combinedFilePath)
+        {
+            File.WriteAllBytes(combinedFilePath, imgage);
+        }
+
         private void LogProcess(string fileName, string message1, string message2 = "")
         {
             string combinedFilePath = Path.Combine(this.filePath, string.Format("{0}_{1}.log", fileName, DateTime.Now.ToString("MM-dd-yyyy")));

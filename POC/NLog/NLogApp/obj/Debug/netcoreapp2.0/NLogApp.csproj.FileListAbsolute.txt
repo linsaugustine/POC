@@ -1,0 +1,13 @@
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLog.config
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogApp.deps.json
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogApp.runtimeconfig.json
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogApp.runtimeconfig.dev.json
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogApp.dll
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogApp.pdb
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogWriter.dll
+D:\NetCore Projects\POC\NLog\NLogApp\bin\Debug\netcoreapp2.0\NLogWriter.pdb
+D:\NetCore Projects\POC\NLog\NLogApp\obj\Debug\netcoreapp2.0\NLogApp.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\NLog\NLogApp\obj\Debug\netcoreapp2.0\NLogApp.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\NLog\NLogApp\obj\Debug\netcoreapp2.0\NLogApp.AssemblyInfo.cs
+D:\NetCore Projects\POC\NLog\NLogApp\obj\Debug\netcoreapp2.0\NLogApp.dll
+D:\NetCore Projects\POC\NLog\NLogApp\obj\Debug\netcoreapp2.0\NLogApp.pdb

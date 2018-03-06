@@ -1,0 +1,16 @@
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.deps.json
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.Interfaces.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.IRepository.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.Interfaces.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.IRepository.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.DataProvider.EFCore.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.pdb
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.AssemblyInfoInputs.cache
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.AssemblyInfo.cs
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.dll
+D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.BAL\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.BAL.pdb

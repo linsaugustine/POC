@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net Core Projects\\Logger\\Logger\\Logger.csproj",
+      "projectUniqueName": "D:\\NetCore Projects\\POC\\Logger\\Logger\\Logger.csproj",
       "projectName": "Logger",
-      "projectPath": "D:\\Net Core Projects\\Logger\\Logger\\Logger.csproj",
+      "projectPath": "D:\\NetCore Projects\\POC\\Logger\\Logger\\Logger.csproj",
       "packagesPath": "C:\\Users\\linsona\\.nuget\\packages\\",
-      "outputPath": "D:\\Net Core Projects\\Logger\\Logger\\obj\\",
+      "outputPath": "D:\\NetCore Projects\\POC\\Logger\\Logger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

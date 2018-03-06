@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChartNav.WaveIntegrationService.BAL.Interfaces\ChartNav.WaveIntegrationService.BAL.Interfaces.csproj" />
+    <ProjectReference Include="..\ChartNav.WaveIntegrationService.DataProvider.IRepository\ChartNav.WaveIntegrationService.DataProvider.IRepository.csproj" />
+  </ItemGroup>
+
+</Project>
