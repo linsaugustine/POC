@@ -27,6 +27,11 @@ namespace LoggerApp
                 log.Exception(e.Message, e.StackTrace);
             }
 
+            for (int i = 0; i < 1000; i++)
+            {
+                log.Transaction("Transaction Logged: "+ i.ToString());
+            }
+
             Console.ReadLine();
         }
     }

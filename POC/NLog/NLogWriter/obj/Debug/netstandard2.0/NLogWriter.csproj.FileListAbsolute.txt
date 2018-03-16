@@ -1,0 +1,8 @@
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netstandard2.0\NLogWriter.deps.json
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netstandard2.0\NLogWriter.dll
+D:\NetCore Projects\POC\NLog\NLogWriter\bin\Debug\netstandard2.0\NLogWriter.pdb
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netstandard2.0\NLogWriter.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netstandard2.0\NLogWriter.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netstandard2.0\NLogWriter.AssemblyInfo.cs
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netstandard2.0\NLogWriter.dll
+D:\NetCore Projects\POC\NLog\NLogWriter\obj\Debug\netstandard2.0\NLogWriter.pdb

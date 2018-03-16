@@ -1,8 +1,0 @@
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.deps.json
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.dll
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\bin\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.pdb
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.csproj.CoreCompileInputs.cache
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.AssemblyInfoInputs.cache
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.AssemblyInfo.cs
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.dll
-D:\NetCore Projects\ChartNav.WaveIntegrationService\ChartNav.WaveIntegrationService.Domain\obj\Debug\netcoreapp1.1\ChartNav.WaveIntegrationService.Domain.pdb

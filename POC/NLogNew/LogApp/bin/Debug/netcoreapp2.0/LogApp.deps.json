@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "92dab2fb5ff6a3532db3c3d34b2e76f747bcf8cc"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "LogApp/1.0.0": {
+        "dependencies": {
+          "LogWritter": "1.0.0"
+        },
+        "runtime": {
+          "LogApp.dll": {}
+        }
+      },
+      "NLog/4.5.0-rc03": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "LogWritter/1.0.0": {
+        "dependencies": {
+          "NLog": "4.5.0-rc03"
+        },
+        "runtime": {
+          "LogWritter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.5.0-rc03": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f3iDkpz3XycDMn7U0id2iO/PUpEO8rZ330zS9ymFNgrM9dtX/bzF8nQ74s7icQhZiFnUQ7+KoHkg+fCYlwxR+A==",
+      "path": "nlog/4.5.0-rc03",
+      "hashPath": "nlog.4.5.0-rc03.nupkg.sha512"
+    },
+    "LogWritter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

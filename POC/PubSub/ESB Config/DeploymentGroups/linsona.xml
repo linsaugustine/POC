@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ESBDeployment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>54d98e40-39fc-41c2-9496-5b1a363d5b43</Id>
+  <Version>f8c9089e-4414-48cf-9da8-98d6f93573b2</Version>
+  <BusinessFlows />
+  <Description>Run everything on local machine</Description>
+  <Name>linsona</Name>
+  <Group>General</Group>
+  <IsSystemObject>false</IsSystemObject>
+  <NeuronEnvironmentVariables />
+  <AmqpConnectionList>
+    <AmqpConnectionProperties>
+      <Server>localhost</Server>
+      <Port>-1</Port>
+      <HealthPort>15672</HealthPort>
+      <VHost>/</VHost>
+      <Username>gcMEvMZhYW2mg8bNoVyb+g==</Username>
+      <Password>gcMEvMZhYW2mg8bNoVyb+g==</Password>
+    </AmqpConnectionProperties>
+  </AmqpConnectionList>
+  <AmqpPort>0</AmqpPort>
+  <AmqpManagementPort>0</AmqpManagementPort>
+  <Zone>Enterprise</Zone>
+  <Enabled>true</Enabled>
+  <Active>true</Active>
+  <ServerTopology>0</ServerTopology>
+  <Units>
+    <ESBDeploymentUnit>
+      <MachineName>linsona</MachineName>
+      <IsESBServer>true</IsESBServer>
+      <IsQueueServer>true</IsQueueServer>
+    </ESBDeploymentUnit>
+  </Units>
+</ESBDeployment>

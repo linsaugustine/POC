@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net Core Projects\\Logger\\LoggerApp\\LoggerApp.csproj",
+      "projectUniqueName": "D:\\NetCore Projects\\POC\\Logger\\LoggerApp\\LoggerApp.csproj",
       "projectName": "LoggerApp",
-      "projectPath": "D:\\Net Core Projects\\Logger\\LoggerApp\\LoggerApp.csproj",
+      "projectPath": "D:\\NetCore Projects\\POC\\Logger\\LoggerApp\\LoggerApp.csproj",
       "packagesPath": "C:\\Users\\linsona\\.nuget\\packages\\",
-      "outputPath": "D:\\Net Core Projects\\Logger\\LoggerApp\\obj\\",
+      "outputPath": "D:\\NetCore Projects\\POC\\Logger\\LoggerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -707,8 +707,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Net Core Projects\\Logger\\Logger\\Logger.csproj": {
-              "projectPath": "D:\\Net Core Projects\\Logger\\Logger\\Logger.csproj"
+            "D:\\NetCore Projects\\POC\\Logger\\Logger\\Logger.csproj": {
+              "projectPath": "D:\\NetCore Projects\\POC\\Logger\\Logger\\Logger.csproj"
             }
           }
         }

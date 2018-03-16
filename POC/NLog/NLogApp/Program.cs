@@ -7,9 +7,8 @@ namespace NLogApp
     {
         static void Main(string[] args)
         {
+            Logger NLog = new Logger("");
             Console.WriteLine("Hello World!");
-            Log.Write.Info("NLog File writing demo");
-            Log.Write.Error("NLog Error Log written");
             Console.ReadLine();
         }
     }

@@ -1,0 +1,12 @@
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogApp.deps.json
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogApp.runtimeconfig.json
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogApp.runtimeconfig.dev.json
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogApp.dll
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogApp.pdb
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogWritter.dll
+D:\NetCore Projects\POC\NLogNew\LogApp\bin\Debug\netcoreapp2.0\LogWritter.pdb
+D:\NetCore Projects\POC\NLogNew\LogApp\obj\Debug\netcoreapp2.0\LogApp.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\NLogNew\LogApp\obj\Debug\netcoreapp2.0\LogApp.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\NLogNew\LogApp\obj\Debug\netcoreapp2.0\LogApp.AssemblyInfo.cs
+D:\NetCore Projects\POC\NLogNew\LogApp\obj\Debug\netcoreapp2.0\LogApp.dll
+D:\NetCore Projects\POC\NLogNew\LogApp\obj\Debug\netcoreapp2.0\LogApp.pdb

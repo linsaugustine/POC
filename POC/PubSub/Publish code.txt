@@ -1,0 +1,15 @@
+private Publisher BuildPublisher(string subscriberIdentity)
+{
+var subscriberId = subscriberIdentity != string.Empty ? subscriberIdentity : ConfigurationManager.AppSettings["esbClientId"];
+var zone = ConfigurationManager.AppSettings["esbzone"];
+var serviceAddress = ConfigurationManager.AppSettings["esbServiceAddress"];
+var serviceIdentity = ConfigurationManager.AppSettings["esbServiceIdentity"];
+
+return new Publisher(new SubscriberConfiguration(subscriberId, zone, serviceAddress, serviceIdentity));
+}
+
+The code that errors out (last line)
+
+using (Publisher publisher = this.BuildPublisher(subscriberIdentity))
+{
+PartyConnectExceptions exceptions = publisher.Connect();

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ESBSubscriber xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>17b6f40b-0cd6-47b2-8da6-8452e054a56b</Id>
+  <Version>b70dd318-141c-4306-ba25-9165c5dd33b2</Version>
+  <BusinessFlows />
+  <Description />
+  <Name>CACPublisher</Name>
+  <Group>General</Group>
+  <IsSystemObject>false</IsSystemObject>
+  <Bindings />
+  <isAllowMultipleInstances>true</isAllowMultipleInstances>
+  <UseUniqueWmiCounterName>false</UseUniqueWmiCounterName>
+  <SubscriberId>CACPublisher</SubscriberId>
+  <ClientGroup>General</ClientGroup>
+  <Zone>Enterprise</Zone>
+  <Enabled>true</Enabled>
+  <ACL />
+  <Anonymous>true</Anonymous>
+  <Subscriptions>
+    <Subscription>
+      <TopicName>CACTopic</TopicName>
+      <CanRead>false</CanRead>
+      <CanWrite>true</CanWrite>
+      <SubscriptionType>Topic</SubscriptionType>
+    </Subscription>
+    <Subscription>
+      <TopicName>CACTopic.Message</TopicName>
+      <CanRead>false</CanRead>
+      <CanWrite>true</CanWrite>
+      <SubscriptionType>Topic</SubscriptionType>
+    </Subscription>
+  </Subscriptions>
+  <AllowMultipleInstances>true</AllowMultipleInstances>
+  <LogActivity>false</LogActivity>
+  <LogSession>true</LogSession>
+</ESBSubscriber>

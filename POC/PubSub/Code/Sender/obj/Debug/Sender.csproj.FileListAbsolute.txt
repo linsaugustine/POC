@@ -1,0 +1,28 @@
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Sender.exe.config
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Sender.exe
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Sender.pdb
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Neuron.Esb.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Neuron.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Neuron.Scripting.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\RabbitMQ.Client.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Nemiro.OAuth.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Neuron.Esb.OAuth.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\FileHelpers.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Xceed.Zip.v6.3.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Xceed.Compression.v6.3.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Xceed.Compression.Formats.v6.3.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Microsoft.ServiceModel.Channels.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\IdentityModel.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Xceed.FileSystem.v6.3.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\en-US\Neuron.Esb.resources.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\bin\Debug\Neuron.Esb.XmlSerializers.dll
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\obj\Debug\Sender.exe
+C:\Program Files\Neudesic\Neuron ESB v3\Samples\Patterns\PubSub\PubSubObject\Sender\obj\Debug\Sender.pdb
+D:\NetCore Projects\POC\PubSub\Code\Sender\bin\Debug\Sender.exe.config
+D:\NetCore Projects\POC\PubSub\Code\Sender\obj\Debug\Sender.exe
+D:\NetCore Projects\POC\PubSub\Code\Sender\obj\Debug\Sender.pdb

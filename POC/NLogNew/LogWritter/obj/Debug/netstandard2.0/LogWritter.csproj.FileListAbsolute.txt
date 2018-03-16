@@ -1,0 +1,8 @@
+D:\NetCore Projects\POC\NLogNew\LogWritter\bin\Debug\netstandard2.0\LogWritter.deps.json
+D:\NetCore Projects\POC\NLogNew\LogWritter\bin\Debug\netstandard2.0\LogWritter.dll
+D:\NetCore Projects\POC\NLogNew\LogWritter\bin\Debug\netstandard2.0\LogWritter.pdb
+D:\NetCore Projects\POC\NLogNew\LogWritter\obj\Debug\netstandard2.0\LogWritter.csproj.CoreCompileInputs.cache
+D:\NetCore Projects\POC\NLogNew\LogWritter\obj\Debug\netstandard2.0\LogWritter.AssemblyInfoInputs.cache
+D:\NetCore Projects\POC\NLogNew\LogWritter\obj\Debug\netstandard2.0\LogWritter.AssemblyInfo.cs
+D:\NetCore Projects\POC\NLogNew\LogWritter\obj\Debug\netstandard2.0\LogWritter.dll
+D:\NetCore Projects\POC\NLogNew\LogWritter\obj\Debug\netstandard2.0\LogWritter.pdb

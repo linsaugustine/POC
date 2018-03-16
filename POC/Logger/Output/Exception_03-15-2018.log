@@ -1,0 +1,20 @@
+First Exception Logged
+Second Exception Logged
+Attempted to access a field that is not accessible by the caller.
+Attempted to access a field that is not accessible by the caller.
+   at LoggerApp.Program.Main(String[] args) in D:\NetCore Projects\POC\Logger\LoggerApp\Program.cs:line 22
+First Exception Logged
+Second Exception Logged
+Attempted to access a field that is not accessible by the caller.
+Attempted to access a field that is not accessible by the caller.
+   at LoggerApp.Program.Main(String[] args) in D:\NetCore Projects\POC\Logger\LoggerApp\Program.cs:line 22
+First Exception Logged
+Second Exception Logged
+Attempted to access a field that is not accessible by the caller.
+Attempted to access a field that is not accessible by the caller.
+   at LoggerApp.Program.Main(String[] args) in D:\NetCore Projects\POC\Logger\LoggerApp\Program.cs:line 22
+First Exception Logged
+Second Exception Logged
+Attempted to access a field that is not accessible by the caller.
+Attempted to access a field that is not accessible by the caller.
+   at LoggerApp.Program.Main(String[] args) in D:\NetCore Projects\POC\Logger\LoggerApp\Program.cs:line 22
